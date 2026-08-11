@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/JQXaJaHdd8bVau3oNR/giphy.gif" width="100%" alt="Banner" />
-</p>
-
 # 👋 ¡Hola! Soy Lucas Sebastián Ramos
 
 ### 💻 Técnico en Programación · 🎓 Estudiante de Ingeniería Informática (UADE) · 🚀 Tech & Education
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2eXpzcG9jcHp1eG9mN3I2bzJmOHRwZ3FiOXdyYnFmOG1wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIW4UU48/giphy.gif" width="280px" alt="Cat coding" />
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="280px" alt="Cat typing fast" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2eXpzcG9jcHp1eG9mN3I2bzJmOHRwZ3FiOXdyYnFmOG1wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIW4UU48/giphy.gif" width="300px" alt="Gato programando" />
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300px" alt="Gato tipeando rápido" />
 </p>
 
 ### 🐱 Bienvenido a mi rincón digital
@@ -108,10 +104,6 @@ Durante mi último año de secundaria en la **E.E.S.T. N.º 7 "Manuel Sadosky"**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassebastianramos&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucassebastianramos&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🐱 Mi filosofía de desarrollo
@@ -127,7 +119,7 @@ Durante mi último año de secundaria en la **E.E.S.T. N.º 7 "Manuel Sadosky"**
 - 📧 **Email:** [lucassramos@uade.edu.ar](mailto:lucassramos@uade.edu.ar)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/J5nvj5IH8kbGk/giphy.gif" width="220px" alt="Cute cat waving" /><br>
+  <img src="https://media.giphy.com/media/J5nvj5IH8kbGk/giphy.gif" width="220px" alt="Gato saludando" /><br>
   <b>💜 Gracias por visitar mi perfil</b><br>
   <i>⭐ Si encontraste algo interesante, ¡no dudes en dejar una estrella! 🐾</i>
 </p>
